@@ -1,18 +1,11 @@
 {
-  "name": "cours-lic3-blois",
+  "name": "node-sample-zeke",
   "version": "0.0.1",
-  "private": true,
-  "scripts": {
-    "start": "node app"
-  },
   "dependencies": {
-    "express": "*",
-    "ejs": "*",
-    "github-flavored-markdown": "*",
-    "less-middleware": "*"
+    "express": "3.1.x"
   },
   "engines": {
-    "node": "0.8.8",
-    "npm": "1.1.65"
+    "node": "0.10.x",
+    "npm": "1.2.x"
   }
 }
