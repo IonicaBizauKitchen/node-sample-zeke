@@ -2,7 +2,24 @@
   "name": "node-sample-zeke",
   "version": "0.0.1",
   "dependencies": {
-    "express": "3.1.x"
+    "express": "3.1.2",
+    "connect": "2.7.5",
+    "qs": "0.5.1",
+    "formidable": "1.0.11",
+    "cookie-signature": "1.0.0",
+    "buffer-crc32": "0.1.1",
+    "cookie": "0.0.5",
+    "send": "0.1.0",
+    "debug": "0.7.2",
+    "mime": "1.2.6",
+    "fresh": "0.1.0",
+    "range-parser": "0.0.4",
+    "bytes": "0.2.0",
+    "pause": "0.0.1",
+    "commander": "0.6.1",
+    "mkdirp": "0.3.5",
+    "buffer-crc32": "0.2.1",
+    "methods": "0.0.1"
   },
   "engines": {
     "node": "0.10.x",
