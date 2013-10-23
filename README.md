@@ -1,0 +1,1 @@
+I exist to keep npm from warning about a missing README.
