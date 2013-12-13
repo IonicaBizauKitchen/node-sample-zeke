@@ -8,6 +8,8 @@
     "node": "0.10.0"
   },
   "scripts": {
-    "starve": "node web.js"
+    "starve": "node web.js",
+    "preinstall": "bin/preinstall",
+    "postinstall": "bin/postinstall"
   }
 }

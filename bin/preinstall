@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+echo
+echo
+echo "I am the preinstall script"
+env
+echo
+echo
