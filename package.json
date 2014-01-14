@@ -8,6 +8,6 @@
     "node": "0.10.0"
   },
   "scripts": {
-    "start": "node web.js",
+    "start": "node web.js"
   }
 }
